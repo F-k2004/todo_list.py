@@ -1,4 +1,4 @@
-# tod_list.py
+# todo_list.py
 
 tasks = []
 
